@@ -193,4 +193,4 @@ else:
     ''')
     print('-' * 40)
 
-Obs: Caso aberto no Visual Code para o arquivo .txt ser salvo o arquivo python deve estar dentro de uma pasta e ser aberta por ela no Visual code.
+#Obs: Caso aberto no Visual Code para o arquivo .txt ser salvo o arquivo python deve estar dentro de uma pasta e ser aberta por ela no Visual code.
